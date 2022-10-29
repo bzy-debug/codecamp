@@ -9,7 +9,7 @@ My journey in codecamp
     - [x] Learn HTML Forms by Building a Registration Form
     - [x] Survey Form
 
-    - [ ] Learn the CSS Box Model by Building a Rothko Painting
+    - [x] Learn the CSS Box Model by Building a Rothko Painting
     - [ ] Learn CSS Flexbox by Building a Photo Gallery
     - [ ] Learn Typography by Building a Nutrition Label
     - [ ] Learn Accessibility by Building a Quiz
