@@ -10,7 +10,7 @@ My journey in codecamp
     - [x] Survey Form
 
     - [x] Learn the CSS Box Model by Building a Rothko Painting
-    - [ ] Learn CSS Flexbox by Building a Photo Gallery
+    - [x] Learn CSS Flexbox by Building a Photo Gallery
     - [ ] Learn Typography by Building a Nutrition Label
     - [ ] Learn Accessibility by Building a Quiz
     - [ ] Tribute Page
